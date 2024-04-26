@@ -1,5 +1,5 @@
 # Library_Management_GUI_By_Sr
-This is a Library Management GUI project that have so many feature like add book , delete , issuer name etc...  this text file with * specialy for python jupyter that i write for you all so it make easy for you all ....
+# This is a Library Management GUI project that have so many feature like add book , delete , issuer name etc...  this text file with * specialy for python jupyter that i write for you all so it make easy for you all ....
 
 # # Library Management System Project
 
