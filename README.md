@@ -111,5 +111,3 @@
 # **You can ask the librarians in your community to use this project to manage all the books in her library. They will be effectively able to manage without any hassles. Also you can ask your school to use this system.**
 #
 # **However, this project is not the ultimate best. There are a lot of updates that can be made to this, and you should keep on evolving this project.**
-#
-# **Have fun coding!**
